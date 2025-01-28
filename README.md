@@ -1,6 +1,8 @@
 # CI/CD Workflow Documentation
 
-![image alt text](architecture-complete.png" architecture")
+![architecture](architecture-complete.png)
+
+Special thanks to [Nextwork](https://www.nextwork.org) for this amazing oppurtunity.
 
 ## Table of Contents
 - [Overview](#overview)
