@@ -1,5 +1,7 @@
 # CI/CD Workflow Documentation
 
+![image alt text](architecture-complete.png" architecture")
+
 ## Table of Contents
 - [Overview](#overview)
 - [System Architecture](#system-architecture)
