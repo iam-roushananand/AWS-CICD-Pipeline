@@ -135,11 +135,11 @@ graph LR
 
 | Version | Date | Author |
 |---------|------|---------
-| 1.0.0 | 2025-01-29 | Abdullah Siraj
+| 1.0.0 | 2025-01-29 | Roushan Anand
 
 ## Contact Information
 
-#### Email: dev.abdullah21@gmail.com
+#### Email: anandroushan18@gmail.com
 ---
 
-*Last Updated: January 29, 2025*
+*Last Updated: August 21, 2025*
